@@ -1,8 +1,7 @@
 # Occasioni post-diploma
 
 ## Studiare all'estero
-- [InformaGiovani](http://www.informagiovaniroma.it/estero/approfondimenti/studiare-all-estero)
-- [USA](https://gradadmissions.mit.edu/applications/international-applicants)
+- [InformaGiovani](https://www.informagiovaniroma.it/estero/)
 
 ## Università in Italia
 Di seguito alcuni siti di università italiane che hanno buone facoltà di informatica.
@@ -10,31 +9,39 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
   - [Informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/29923/home)
   - [Ingegneria informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/31810/home)
 - [Università Roma Tre](https://www.inf.uniroma3.it/)
+- [Università di Pisa](https://www.unipi.it/didattica/corsi/dottorati/scienze-ingegneristiche-ed-informatiche/informatica/)
 - [Politecnico di Milano](http://www.poliorientami.polimi.it/come-si-accede/ingegneria/infografica/)
 - [Politecnico di Torino](http://orienta.polito.it/it/iscrizione)
 - [Università di Salerno (Fisciano)](https://web.unisa.it/didattica/immatricolazioni/informazioni)
 
 ## ITS
-- ITS Academy Lazio Digitale 
+- [ITS Academy Lazio Digitale](https://www.laziodigital.it/)
+- [ITSEL Civitavecchia](https://www.itsel.it/)
 
 ## Studio Online
 Di seguito dei portali con ottimi corsi che si possono seguire online, per una formazione da affiancare al lavoro o all'università.
-- [Coursera](https://www.coursera.org)
-- [EdX](https://www.edx.org/)
-- [Udacity](https://www.udacity.com/)
-- [Pluralsight](https://www.pluralsight.com/)
-- [Udemy](https://www.udemy.com/)
-- [Skillshare](https://www.skillshare.com/)
-- [Domestika](https://www.domestika.org/)
-- [Cognitive Class](https://courses.cognitiveclass.ai/)
-- [Summer of Code](https://summerofcode.withgoogle.com/get-started/)
+- [EdX](https://www.edx.org/) - fondato dall'MIT di Boston e Harvard di Cambridge (Massachusetts, USA)
+- [Coursera](https://www.coursera.org) - fondato dall'Università di Stanford (California, USA)
+- [Udacity](https://www.udacity.com/) - corsi di livello universitario online, gratuiti o a pagamento
+- [Pluralsight](https://www.pluralsight.com/) - abbonamento mensile stile Netflix
+- [Udemy](https://www.udemy.com/) - marketplace di corsi, qualità di tutti i livelli
+- [Skillshare](https://www.skillshare.com/) - specializzato nelle competenze creative/tecniche
+- [Domestika](https://www.domestika.org/) - corsi creativi su tutti i temi, tecnici e non
+- [Cognitive Class](https://courses.cognitiveclass.ai/) - corsi specializzati sull'AI
+- [Summer of Code](https://summerofcode.withgoogle.com/get-started/) - campi estivi di esperienze lavorative in aziende affiliate a Google per per lo sviluppo di specifici progetti.
 
 ## Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
-- [Linkedin](https://www.linkedin.com/)
-- [Glassdoor](https://www.glassdoor.it/)
-- [Hacker Rank](https://www.hackerrank.com/)
-- [Stackoverflow Developer Survey](https://insights.stackoverflow.com/survey/2020)
+- [Linkedin](https://www.linkedin.com/) - il social network del lavoro
+- [Indeed](https://it.indeed.com/?r=us) - offerte di lavoro
+- [Glassdoor](https://www.glassdoor.it/) - per analizzare le aziende, stipendi, recensioni, etc.
+- [Codemotion Jobs](https://www.codemotion.com/jobs/) - azienda italiana che organizza conferenze nell'ambito informatico e si propone anche come piattaforma per far incontrare domanda e offerta di lavoro
+- [Hacker Rank](https://www.hackerrank.com/) - per dimostrare le proprie capacità tecniche, utile mettere il proprio profilo sul CV
+- [Stackoverflow Developer Survey 2024](https://insights.stackoverflow.com/survey/2024) - analisi dettagliata e molto interessante sullo stato della tecnologia e del lavoro in ambito informatico
+
+### Remote working
+- [Remote.co](https://remote.co/)
+- [Working Nomads](https://www.workingnomads.com/jobs)
 
 
 ## Conferenze & Co.
