@@ -1,17 +1,17 @@
 # Occasioni post-diploma
 
 ## Studiare all'estero
-- [InformaGiovani](https://www.informagiovaniroma.it/estero/)
+- InformaGiovani: https://www.informagiovaniroma.it/estero/ (copiare incollare il link, cliccando non funziona)
 
 ## Università in Italia
 Di seguito alcuni siti di università italiane che hanno buone facoltà di informatica.
-- [Università La Sapienza](https://www.uniroma1.it/it/pagina-strutturale/corsi-e-iscrizioni)
-  - [Informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/29923/home)
-  - [Ingegneria informatica](https://corsidilaurea.uniroma1.it/it/corso/2022/31810/home)
-- [Università Roma Tre](https://www.inf.uniroma3.it/)
+- [Università La Sapienza](https://corsidilaurea.uniroma1.it/it)
+  - Informatica
+  - Ingegneria informatica
+- [Università Roma Tre](https://www.uniroma3.it/)
 - [Università di Pisa](https://www.unipi.it/didattica/corsi/dottorati/scienze-ingegneristiche-ed-informatiche/informatica/)
-- [Politecnico di Milano](http://www.poliorientami.polimi.it/come-si-accede/ingegneria/infografica/)
-- [Politecnico di Torino](http://orienta.polito.it/it/iscrizione)
+- [Politecnico di Milano](http://www.polimi.it)
+- [Politecnico di Torino](https://www.polito.it/)
 - [Università di Salerno (Fisciano)](https://web.unisa.it/didattica/immatricolazioni/informazioni)
 
 ## ITS
@@ -37,7 +37,7 @@ Di seguito dei link molto utili per chi cerca lavoro.
 - [Glassdoor](https://www.glassdoor.it/) - per analizzare le aziende, stipendi, recensioni, etc.
 - [Codemotion Jobs](https://www.codemotion.com/jobs/) - azienda italiana che organizza conferenze nell'ambito informatico e si propone anche come piattaforma per far incontrare domanda e offerta di lavoro
 - [Hacker Rank](https://www.hackerrank.com/) - per dimostrare le proprie capacità tecniche, utile mettere il proprio profilo sul CV
-- [Stackoverflow Developer Survey 2024](https://insights.stackoverflow.com/survey/2024) - analisi dettagliata e molto interessante sullo stato della tecnologia e del lavoro in ambito informatico
+- [Stackoverflow Developer Survey 2024](https://survey.stackoverflow.co/2024/) - analisi dettagliata e molto interessante sullo stato della tecnologia e del lavoro in ambito informatico
 
 ### Remote working
 - [Remote.co](https://remote.co/)
