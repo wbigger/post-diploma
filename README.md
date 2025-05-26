@@ -1,7 +1,7 @@
 # Occasioni post-diploma
 
 ## Studiare all'estero
-- InformaGiovani: https://www.informagiovaniroma.it/estero/ (copiare incollare il link, cliccando non funziona)
+- [InformaGiovani](https://www.informagiovaniroma.it/estero/) (copiare incollare il link, se cliccando non funziona)
 
 ## Università in Italia
 Di seguito alcuni siti di università italiane che hanno buone facoltà di informatica.
