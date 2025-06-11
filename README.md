@@ -20,7 +20,7 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
 
 ## Studio Online
 Di seguito dei portali con ottimi corsi che si possono seguire online, per una formazione da affiancare al lavoro o all'università.
-- [EdX](https://www.edx.org/) - fondato dall'MIT di Boston e Harvard di Cambridge (Massachusetts, USA), uno dei migliori siti per studiare materie tecniche, di solito i corsi sono gratuiti da seguire, si paga solo la certificazione finale;
+- [EdX](https://www.edx.org/) - fondato dall'MIT di Boston e Harvard di Cambridge (Massachusetts, USA), uno dei migliori siti per studiare materie tecniche, di solito i corsi sono gratuiti da seguire, si paga solo la certificazione finale
 - [Coursera](https://www.coursera.org) - fondato dall'Università di Stanford (California, USA), corsi su tutte le materie di tutte le università del mondo, di solito i corsi hanno un free trial di una settimana, poi diventano a pagamento
 - [Udacity](https://www.udacity.com/) - corsi di livello universitario online, gratuiti o a pagamento (in alcuni casi costo abbastanza elevato)
 - [Pluralsight](https://www.pluralsight.com/) - unico abbonamento mensile per tutti i corsi, stile Netflix
@@ -29,6 +29,7 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Domestika](https://www.domestika.org/) - corsi creativi su tutti i temi, tecnici e non
 - [Cognitive Class](https://courses.cognitiveclass.ai/) - corsi specializzati sull'AI
 - [Summer of Code](https://summerofcode.withgoogle.com/get-started/) - campi estivi di esperienze lavorative in aziende affiliate a Google per per lo sviluppo di specifici progetti.
+- [Scrimba](https://scrimba.com) - sito specializzato nei corsi di codice, usa una tecnologia molto interessante che ti permette di scrivere codice in modo interattivo mentre segui i video corsi, da provare
 
 ## Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
