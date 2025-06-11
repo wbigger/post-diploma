@@ -20,11 +20,11 @@ Di seguito alcuni siti di università italiane che hanno buone facoltà di infor
 
 ## Studio Online
 Di seguito dei portali con ottimi corsi che si possono seguire online, per una formazione da affiancare al lavoro o all'università.
-- [EdX](https://www.edx.org/) - fondato dall'MIT di Boston e Harvard di Cambridge (Massachusetts, USA)
-- [Coursera](https://www.coursera.org) - fondato dall'Università di Stanford (California, USA)
-- [Udacity](https://www.udacity.com/) - corsi di livello universitario online, gratuiti o a pagamento
-- [Pluralsight](https://www.pluralsight.com/) - abbonamento mensile stile Netflix
-- [Udemy](https://www.udemy.com/) - marketplace di corsi, qualità di tutti i livelli
+- [EdX](https://www.edx.org/) - fondato dall'MIT di Boston e Harvard di Cambridge (Massachusetts, USA), uno dei migliori siti per studiare materie tecniche, di solito i corsi sono gratuiti da seguire, si paga solo la certificazione finale;
+- [Coursera](https://www.coursera.org) - fondato dall'Università di Stanford (California, USA), corsi su tutte le materie di tutte le università del mondo, di solito i corsi hanno un free trial di una settimana, poi diventano a pagamento
+- [Udacity](https://www.udacity.com/) - corsi di livello universitario online, gratuiti o a pagamento (in alcuni casi costo abbastanza elevato)
+- [Pluralsight](https://www.pluralsight.com/) - unico abbonamento mensile per tutti i corsi, stile Netflix
+- [Udemy](https://www.udemy.com/) - marketplace di corsi, attenzione perché ci sono corsi di qualità di tutti i livelli (alcuni sono buoni altri scarsi)
 - [Skillshare](https://www.skillshare.com/) - specializzato nelle competenze creative/tecniche
 - [Domestika](https://www.domestika.org/) - corsi creativi su tutti i temi, tecnici e non
 - [Cognitive Class](https://courses.cognitiveclass.ai/) - corsi specializzati sull'AI
