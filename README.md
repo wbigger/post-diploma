@@ -36,6 +36,10 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Domestika](https://www.domestika.org/) - corsi creativi su tutti i temi, tecnici e non
 - [Cognitive Class](https://courses.cognitiveclass.ai/) - corsi specializzati sull'AI
 
+### Corsi proposti da aziende
+- [Netacad](https://www.netacad.com/) - corsi promossi da Cisco su vari argomenti relativi a Networking, IoT, Intelligenza Artificiale
+- [AWS Educate](https://aws.amazon.com/education/awseducate/) - corsi promossi da Amazon Web Services (AWS), relative all'uso delle tecnologie cloud
+
 
 ## Lavoro
 Di seguito dei link molto utili per chi cerca lavoro.
