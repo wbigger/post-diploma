@@ -12,6 +12,7 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [SoloLearn](https://www.sololearn.com) - il "Duolingo" della programmazione, consiste in corsi composti da piccoli esercizi e pillore di teoria da svolgere in pochi minuti, anche da cellulare
 - [Scrimba](https://scrimba.com) - sito specializzato nei corsi di codice, usa una tecnologia molto interessante che ti permette di scrivere codice in modo interattivo mentre segui i video corsi - il più moderno e recente dei siti elencati, da provare
 - [Cognitive Class](https://courses.cognitiveclass.ai/) - corsi specializzati sull'AI
+- [Hugging Face Learn](https://huggingface.co/learn) - sito di riferimento per il machine learning open source, corsi gratuiti di alta qualità, molto tecnici
 
 
 ### Creatività
@@ -41,13 +42,17 @@ Di seguito dei link molto utili per chi cerca lavoro.
 
 
 ## Conferenze & Co.
-Di seguito delle conferenze annuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie.
+Di seguito delle conferenze annuali che consiglio di seguire in presenza o online per tenersi aggiornati sulle nuove tecnologie. Partecipare attivamente a conferenze, incontri e meetup aiuta molto a farsi conoscere e trovare un lavoro nell'ambito.
 
-- [Codemotion](https://www.codemotion.com/)
-  - [Aperitech](https://events.codemotion.com/meetups/) 
-- [Droidcon](https://it.droidcon.com/)
-- [Google Developers Groups](https://gdg.community.dev/)
-- [Google I/O](https://events.google.com/io/)
-- [Apple WWDC](https://developer.apple.com/wwdc21/)
-- [AWS re:Invent](https://reinvent.awsevents.com/)
+Italia
+- [Codemotion](https://www.codemotion.com/) - conferenza su varie tecnologie in diverse parti d'Italia e del mondo
+  - [Aperitech](https://events.codemotion.com/meetups/) - meetup per incontrare altri appassionati o professionisti di una certa tecnologia
+- [Droidcon](https://it.droidcon.com/) - tecnologie android, si svolge a Torino
+- [RedHotCyber Conference](https://www.redhotcyber.com/red-hot-cyber-conference) - conferenza sulla cyber sicurezza
+- [Google Developers Groups](https://gdg.community.dev/) - comunità di sviluppatori android, distribuite un po' in tutto il mondo, ce ne sono diverse anche nel Lazio.
+
+Mondo
+- [Google I/O](https://events.google.com/io/) - evento annuale di Google in cui presenta tutte le nuove tecnologie
+- [Apple WWDC](https://developer.apple.com/wwdc26/) - evento annuale di Apple in cui presenta tutte le nuove tecnologie
+- [AWS re:Invent](https://reinvent.awsevents.com/) - evento AWS in cui presenta tutte le nuove tecnologie
 
