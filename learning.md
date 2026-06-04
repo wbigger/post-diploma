@@ -11,9 +11,14 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Udemy](https://www.udemy.com/) - marketplace di corsi, attenzione perché ci sono corsi di qualità di tutti i livelli (alcuni sono buoni altri scarsi)
 - [SoloLearn](https://www.sololearn.com) - il "Duolingo" della programmazione, consiste in corsi composti da piccoli esercizi e pillore di teoria da svolgere in pochi minuti, anche da cellulare
 - [Scrimba](https://scrimba.com) - sito specializzato nei corsi di codice, usa una tecnologia molto interessante che ti permette di scrivere codice in modo interattivo mentre segui i video corsi - il più moderno e recente dei siti elencati, da provare
+
+### Artificial Intelligence
 - [Cognitive Class](https://courses.cognitiveclass.ai/) - corsi specializzati sull'AI
 - [Hugging Face Learn](https://huggingface.co/learn) - sito di riferimento per il machine learning open source, corsi gratuiti di alta qualità, molto tecnici
 
+### Cybersecurity
+- [Olimpiadi italiane Cybersecurity](https://training.olicyber.it/) - sito ufficiale per allenarsi per le Olimpiadi di Cybersicurezza, ma adatto a tutti coloro che vogliono imparare le base di Cyber Sicurezza con Catch The Flag
+- [Try Hack Me](https://tryhackme.com/) - Sito gratuito con sfide di difficoltà crescente (consigliato dagli studenti).
 
 ### Creatività
 - [Skillshare](https://www.skillshare.com/) - specializzato nelle competenze creative/tecniche (uso di applicativi per artisti e content creators)
