@@ -17,7 +17,7 @@ Di seguito dei portali con ottimi corsi che si possono seguire online, per una f
 - [Hugging Face Learn](https://huggingface.co/learn) - sito di riferimento per il machine learning open source, corsi gratuiti di alta qualità, molto tecnici
 
 ### Cybersecurity
-- [Olimpiadi italiane Cybersecurity](https://training.olicyber.it/) - sito ufficiale per allenarsi per le Olimpiadi di Cybersicurezza, ma adatto a tutti coloro che vogliono imparare le base di Cyber Sicurezza con Catch The Flag
+- [Olicyber](https://training.olicyber.it/) - sito ufficiale per allenarsi per le Olimpiadi Italiane di Cybersicurezza, adatto a tutti coloro che vogliono imparare con sfide di tipo Catch The Flag.
 - [Try Hack Me](https://tryhackme.com/) - Sito gratuito con sfide di difficoltà crescente (consigliato dagli studenti).
 
 ### Creatività
